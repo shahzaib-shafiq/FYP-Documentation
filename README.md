@@ -1,2 +1,15 @@
-# FYP_1
- FYP-1
+The SSNA App will assist students and provides seamless operations 
+⦁	Navigating their timetable
+⦁	Interacting with seniors for assistance
+⦁	 Managing buses schedule 
+⦁	Managing course martial 
+⦁	University announcements
+⦁	 Upcoming Events and Senior Guidance Portal
+
+
+A central platform that would benefit the students in the current system, as it is quite difficult for new students to navigate the schedule, the classrooms, and the support of their seniors. Our software aims to address these kinds of issues by giving the students a one-stop shop to assist them in completing all these tasks on a single platform. This unified system will facilitate all aspects of university student life, including scheduling, class locations, and connecting with more seasoned classmates.
+
+
+We are eager to think of ways that a mobile app may specifically benefit the campus community, improving and perhaps adding to the quality of life for students. Everything they would require for classes including timetables, e-books, and even syllabus would be provided, along with an academic calendar that would remember all the important dates. Along with that, it has a university-wide announcement and options for communicating with friends, peers, and seniors. Students will be able to navigate through all the events and activities taking place on campus with ease because of the website's simplicity of opening. They offer several news streams that will provide updates on events on the campus. Moreover, a portal providing access to several student support services
+
+
